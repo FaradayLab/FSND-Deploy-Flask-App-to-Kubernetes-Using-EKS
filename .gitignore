@@ -28,6 +28,5 @@ htmlcov/
 .envrc
 .direnv
 docker-compose.yml
-aws-auth-patch.yml
 .dockerignore
 iam-role-policy
