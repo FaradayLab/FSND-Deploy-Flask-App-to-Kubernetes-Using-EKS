@@ -16,7 +16,7 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-
+.vscode
 # Coverage reports
 htmlcov/
 .coverage
@@ -26,3 +26,7 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+docker-compose.yml
+aws-auth-patch.yml
+.dockerignore
+iam-role-policy
