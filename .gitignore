@@ -29,4 +29,3 @@ htmlcov/
 .direnv
 docker-compose.yml
 .dockerignore
-iam-role-policy
